@@ -1,0 +1,15 @@
+{
+  "name": "bagcampus-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bagcampus/"
+  },
+  "author": "Bagcampus IN",
+  "license": "MIT"
+}
