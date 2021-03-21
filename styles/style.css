@@ -1,1 +1,30 @@
-section#Login_Tab {min-height: 100vh;}
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@800&display=swap');
+
+section#Login_Tab {
+    min-height: 100vh;background: black;
+}
+
+.out-box {
+    background: white;
+}
+
+.heading {
+    padding-top: 35px;
+}
+
+h2.logo {
+    line-height: 1.6;
+    font-size: 27px;
+    color: #222;
+    font-family: 'Mulish', sans-serif;
+    margin: 0px;
+    padding-bottom: 65px;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.col-md-7.col-lg-8 {
+    background: #efeeff;
+}
